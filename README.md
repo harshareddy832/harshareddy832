@@ -2,7 +2,7 @@
 
  
 - 🌱 I’m currently exploring the world of Machine Learning
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/harsha-reddy-abb94518b/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/harshareddy018/)
 
 
 
