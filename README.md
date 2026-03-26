@@ -1,12 +1,11 @@
-# Builder who Ships 
+#Engineer
 
-**Data Scientist with product instincts.** I build ML systems people actually use.
-
-## What I'm Building
+## What I'm Upto
 - **Chrome Extension**: AI context transfer tool (published, daily active users)
 - **Fraud Detection**: Graph Neural Networks achieving 93% precision 
 - **iOS/Mac App**: Wireless trackpad with 120fps gesture recognition
 - **ML at Scale**: Recommendation systems processing 25M+ records
+- **CLipboardManager**: simpler clipboard
 
 ## Tech Stack
 **ML/AI**: PyTorch, TensorFlow, Graph Neural Networks, LangChain  
@@ -14,10 +13,6 @@
 **Cloud**: AWS, GCP, MongoDB, PostgreSQL  
 **Languages**: Python, JavaScript, Swift, R  
 
-## Philosophy
-*"Simple solutions to real pain points win."* 
-
-I optimize for user value over technical complexity. The best code is code that gets out of the way and lets people do what they're trying to do.
 
 ---
 
