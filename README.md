@@ -20,5 +20,3 @@
 **Looking for**: ML/Backend roles where I can own meaningful pieces of hard problems
 
 **Connect**: [LinkedIn](https://www.linkedin.com/in/harshareddy018/) • [Portfolio](https://harshareddy832.github.io)
-
-[![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshareddy832&show_icons=true&theme=default)](https://github.com/harshareddy832)
